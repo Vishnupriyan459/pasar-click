@@ -1,0 +1,54 @@
+{
+    "vendor": [
+        {
+            "VendorName": "Green Garden Grocers",
+            "Vendorimg": "Asset/Vendor/GreenGarden.svg",
+            "starCount": 4,
+            "Time": "30min",
+            "href": "#",
+            "Location": "Petaling Jaya",
+            "like": false,
+            "products": ["tomato", "brinjal", "carrot", "spinach"]
+        },
+        {
+            "VendorName": "Tender Cuts Butchery",
+            "Vendorimg": "Asset/Vendor/TenderCuts.svg",
+            "starCount": 5,
+            "Time": "20min",
+            "href": "#",
+            "Location": "Kuala Lumpur",
+            "like": true,
+            "products": ["meat", "fish", "chicken", "beef","red meat"]
+        },
+        {
+            "VendorName": "LeafGreens",
+            "Vendorimg": "Asset/Vendor/LeafGreens.svg",
+            "starCount": 4,
+            "Time": "30min",
+            "href": "#",
+            "Location": "Texas",
+            "like": true,
+            "products": ["lettuce", "kale", "spinach", "cucumber"]
+        },
+        {
+            "VendorName": "SizzlingSteaks",
+            "Vendorimg": "Asset/Vendor/SizzlingSteaks.svg",
+            "starCount": 3,
+            "Time": "45min",
+            "href": "#",
+            "Location": "Pune",
+            "like": false,
+            "products": ["steak", "pork", "lamb", "turkey","red meat"]
+        },
+        {
+            "VendorName": "FreshChoice",
+            "Vendorimg": "Asset/Vendor/FreshChoice.svg",
+            "starCount": 5,
+            "Time": "35min",
+            "href": "#",
+            "Location": "Winzland",
+            "like": true,
+            "products": ["rice", "flour", "pulses", "spices"]
+        }
+    ]
+}

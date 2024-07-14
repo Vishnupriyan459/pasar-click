@@ -4,6 +4,17 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
+    screens: {
+      'Smobile':'320px',
+      'Mmobile':'375px',
+      'Lmobile':'425px',
+      'tablet': '640px',
+      'laptop': '1024px',
+      "Llaptop":'1400px',
+      'desktop': '1600px',
+      'Ldesktop':"2500px"
+     
+    },
     extend: {
       backgroundImage: {
         // 'hero-pattern': "url('/img/hero-pattern.svg')",
@@ -12,8 +23,9 @@ module.exports = {
         // 'Green-Garden':"url('/public/Asset/Vendor/Green Garden.svg)",
         // 'Leaf-Greens':"url('/public/Asset/Vendor/Leaf Greens.svg)",
         // 'Tender-Cuts':"url('/public/Asset/Vendor/Tender Cuts.svg)",
-        
-        
+        'DailySales-bg': "url('/public/Asset/Dailysales/dailysalesbackground.svg')",
+        'DailySales-img': "url('/public/Asset/Dailysales/dailysalesbanner.svg')",
+        'Search_bg':  "url('/public/Asset/Search/background.svg')"
       },
       colors: {
         bordergreen: '#1AC84B',
