@@ -93,7 +93,7 @@
     {
       "productImg": "Asset/products/MalaysianPork.svg",
       "categories": "Non-vegetable",
-      "productName": "Malaysian Pork",
+      "productName": "Goat meat",
       "vendorName": "Asian Delights",
       "Time": "30min",
       "vendorhref": "#",
@@ -111,7 +111,7 @@
     {
       "productImg": "Asset/products/MalaysianPorkBelly.svg",
       "categories": "Non-vegetable",
-      "productName": "Malaysian Pork Belly",
+      "productName": "Chicken Breast",
       "vendorName": "Asian Delights",
       "Time": "20min",
       "vendorhref": "#",
